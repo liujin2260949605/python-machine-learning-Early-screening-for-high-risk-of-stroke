@@ -1,13 +1,3 @@
-<img width="1744" height="1452" alt="01_目标变量分布图" src="https://github.com/user-attachments/assets/0c2efdd6-1e29-4e09-9874-66adfa4beb3d" />
-<img width="4444" height="2950" alt="02_探索性分析图表合集" src="https://github.com/user-attachments/assets/63523e1c-a5bd-434b-93c5-79837b2bf0cb" />
-<img width="4688" height="5352" alt="03_交叉分析热力图合集" src="https://github.com/user-attachments/assets/b82171ad-ee47-42c9-b3e3-8029602b05ee" />
-<img width="2346" height="1752" alt="04_PR曲线" src="https://github.com/user-attachments/assets/d0325638-ac29-4939-a4fe-87ea06d31fe4" />
-<img width="2346" height="1752" alt="05_ROC曲线对比" src="https://github.com/user-attachments/assets/566aebb9-5ea9-423c-a8a3-d7e4e989f0b5" />
-<img width="1648" height="1391" alt="06_混淆矩阵" src="https://github.com/user-attachments/assets/bd54fe81-5d38-4132-98c5-0e19ff0afd31" />
-<img width="2892" height="2352" alt="07_特征重要性" src="https://github.com/user-attachments/assets/68e7f225-8caf-4918-ad99-e56f61dd7f6a" />
-
-
-
 # python-machine-learning-Early-screening-for-high-risk-of-stroke
 你是某医疗机构的数据分析师。公共卫生团队希望建立一个“卒中高风险早筛模型”，用于体检筛查、慢病管理和健康随访资源分配。这个模型不是用于临床确诊，而是用于提前发现高风险人群、降低高风险对象被漏掉的概率、辅助管理层安排筛查优先级与资源投入。管理层关心的是：哪些人更值得优先纳入筛查，模型是否能尽量减少高风险人群被漏掉，模型是否可解释并能指导资源分配。
 
